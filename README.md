@@ -7,5 +7,5 @@
  2. Crop
  3. Flip
  4. Rotate
- 5. Random Erase
+ 5. Random Erase  
 추후 기능을 늘릴 예정입니다.
