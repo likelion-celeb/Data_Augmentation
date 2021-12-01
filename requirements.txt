@@ -1,0 +1,5 @@
+numpy
+matplotlib
+selenium
+beautifulsoup4
+Pillow
