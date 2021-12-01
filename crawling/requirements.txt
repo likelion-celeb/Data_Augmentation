@@ -1,2 +1,4 @@
+numpy
+matplotlib
 selenium
 beautifulsoup4
